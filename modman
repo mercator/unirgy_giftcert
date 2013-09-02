@@ -1,0 +1,22 @@
+app/code/community/Unirgy/Giftcert app/code/community/Unirgy/Giftcert
+app/design/adminhtml/default/default/layout/ugiftcert.xml app/design/adminhtml/default/default/layout/ugiftcert.xml
+app/design/adminhtml/default/default/template/ugiftcert app/design/adminhtml/default/default/template/ugiftcert
+app/design/frontend/base/default/layout/ugiftcert.xml app/design/frontend/base/default/layout/ugiftcert.xml
+app/design/frontend/base/default/template/unirgy app/design/frontend/base/default/template/unirgy
+app/etc/modules/Unirgy_Giftcert.xml app/etc/modules/Unirgy_Giftcert.xml
+app/locale/en_US/Unirgy_Giftcert.csv app/locale/en_US/Unirgy_Giftcert.csv
+app/locale/en_US/template/email/ugiftcert_recipient.html app/locale/en_US/template/email/ugiftcert_recipient.html
+app/locale/en_US/template/email/ugiftcert_self.html app/locale/en_US/template/email/ugiftcert_self.html
+app/locale/de_DE/Unirgy_Giftcert.csv app/locale/de_DE/Unirgy_Giftcert.csv
+app/locale/de_DE/template/email/ugiftcert_recipient.html app/locale/de_DE/template/email/ugiftcert_recipient.html
+app/locale/de_DE/template/email/ugiftcert_self.html app/locale/de_DE/template/email/ugiftcert_self.html
+app/locale/fr_FR/Unirgy_Giftcert.csv app/locale/fr_FR/Unirgy_Giftcert.csv
+app/locale/fr_FR/template/email/ugiftcert_recipient.html app/locale/fr_FR/template/email/ugiftcert_recipient.html
+app/locale/fr_FR/template/email/ugiftcert_self.html app/locale/fr_FR/template/email/ugiftcert_self.html
+app/locale/it_IT/Unirgy_Giftcert.csv app/locale/it_IT/Unirgy_Giftcert.csv
+app/locale/ja_JP/Unirgy_Giftcert.csv app/locale/ja_JP/Unirgy_Giftcert.csv
+app/locale/ja_JP/template/email/ugiftcert_recipient.html app/locale/ja_JP/template/email/ugiftcert_recipient.html
+app/locale/ja_JP/template/email/ugiftcert_self.html app/locale/ja_JP/template/email/ugiftcert_self.html
+app/locale/pt_PT/template/email/ugiftcert_recipient.html app/locale/pt_PT/template/email/ugiftcert_recipient.html
+app/locale/pt_PT/template/email/ugiftcert_self.html app/locale/pt_PT/template/email/ugiftcert_self.html
+
