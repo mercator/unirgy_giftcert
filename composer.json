@@ -1,0 +1,9 @@
+{
+    "name": "mercator/unirgy_giftcert",
+    "type": "magento-module",
+    "description": "Mercator repository for Unirgy_Giftcart. Provides a gift certificate product type.",
+    "homepage": "https://github.com/mercator/unirgy_giftcert",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
